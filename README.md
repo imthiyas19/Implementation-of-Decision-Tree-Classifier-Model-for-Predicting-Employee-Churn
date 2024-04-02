@@ -77,28 +77,75 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 
 ### Data Head:
-![OUTPUT](/datahead.png)
+
+
+
+![datahead](https://github.com/imthiyas19/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120353416/5f27304c-4df0-4b4a-b8d7-511eba6c0929)
+
+
+
 
 ### Data Info:
-![OUTPUT](/datainfo.png)
+
+
+![datainfo](https://github.com/imthiyas19/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120353416/d4067def-0dae-4afa-9e05-74f9e576da6a)
+
+
+
 
 ### Isnull() and Sum():
-![OUTPUT](/isnull_sum.png)
+
+
+
+![isnull_sum](https://github.com/imthiyas19/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120353416/e63d63e6-df32-425e-97dd-8b30547baae9)
+
+
+
+
 
 ### Data ValueCounts:
-![OUTPUT](/valuecounts.png)
+
+
+![valuecounts](https://github.com/imthiyas19/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120353416/f4c0c8e1-e72b-41a9-8794-78d771f2cdfc)
+
+
+
+
 
 ### Data Head for SALARY:
-![OUTPUT](/salaryhead.png)
+
+
+
+
+![salaryhead](https://github.com/imthiyas19/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120353416/997dfe4b-cb85-467e-8f21-4fe99fb5487d)
+
+
 
 ### X Data:
-![OUTPUT](/xhead.png)
+
+
+![xhead](https://github.com/imthiyas19/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120353416/fe74363b-3151-4971-85ce-affa8c902722)
+
+
+
+
 
 ### Accuracy Value:
-![OUTPUT](/accuracy.png)
+
+
+![accuracy](https://github.com/imthiyas19/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120353416/3ddd4bce-9533-4dfe-b416-c3a26d7aacc0)
+
+
+
+
 
 ### Predict Value [0.5,0.8,9,260,6,0,1,2]:
-![OUTPUT](/predict.png)
+
+
+![predict](https://github.com/imthiyas19/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120353416/d086e68f-8048-458d-9f24-727b5b83066f)
+
+
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
